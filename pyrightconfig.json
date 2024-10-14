@@ -1,0 +1,9 @@
+{
+    "venvPath": "<PATH TO PYTHON ENV>",
+    "venv": "<VENV NAME>",
+    "executionEnvironments": [
+        {
+            "root": "src"
+        }
+    ]
+}
